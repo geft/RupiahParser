@@ -1,0 +1,12 @@
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\bin\Release\RupiahParser.exe.config
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\bin\Release\RupiahParser.exe
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\bin\Release\RupiahParser.pdb
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\MainWindow.baml
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\MainWindow.g.cs
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\App.g.cs
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser_MarkupCompile.cache
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.g.resources
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.Properties.Resources.resources
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.csproj.GenerateResource.Cache
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.exe
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.pdb
