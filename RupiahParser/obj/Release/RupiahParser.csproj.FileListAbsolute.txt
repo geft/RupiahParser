@@ -10,3 +10,9 @@ C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\R
 C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.csproj.GenerateResource.Cache
 C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.exe
 C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.pdb
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.csprojResolveAssemblyReference.cache
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\bin\Release\RupiahParser.exe.manifest
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\bin\Release\RupiahParser.application
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.TrustInfo.xml
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.exe.manifest
+C:\Users\Gerry\Documents\Visual Studio 2013\Projects\RupiahParser\RupiahParser\RupiahParser\obj\Release\RupiahParser.application
